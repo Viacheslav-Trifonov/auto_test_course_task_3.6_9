@@ -21,6 +21,6 @@ _________________________
 
 Пример для запуска теста с параметром "language" в командной строке: 
 
-`pytest --language=es test_items.py.`
+`pytest --language=es test_items.py`
 
 Данный тест работает только для браузера Chrome.
